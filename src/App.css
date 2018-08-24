@@ -7,3 +7,30 @@
 .capitals {
   border: 1px solid black;
 }
+.authorsNbooks {
+  display: flex;
+}
+.authors {
+  border: 1px solid black;
+}
+.books {
+  border: 1px solid black;
+}
+.classNstudents {
+  display: flex;
+}
+.students {
+  border: 1px solid black;
+}
+.junction {
+  border: 1px solid black;
+}
+.class {
+  border: 1px solid black;
+}
+.names {
+  border: 1px solid black;
+}
+.grades {
+  border: 1px solid black;
+}
